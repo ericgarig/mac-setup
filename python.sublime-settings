@@ -1,0 +1,14 @@
+// These settings override both User and Default settings for the JSON syntax
+{
+    // editor options
+    "draw_white_space": "all",
+
+    // tabs and whitespace
+    "auto_indent": true,
+    "rulers": [72, 80],
+    "smart_indent": true,
+    "tab_size": 4,
+    "trim_automatic_white_space": true,
+    "ensure_newline_at_eof_on_save": true,
+
+}
